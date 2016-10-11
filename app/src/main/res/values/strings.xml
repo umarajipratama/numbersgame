@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Numbers Game</string>
+    <string name="text_loading">Loading...</string>
+    <string name="button_check">Cek Angka</string>
+    <string name="text_guess">Menebak Nomor !</string>
+    <string name="text_congrats">Selamat , anda berhasil menebak angka dalam </string>
+    <string name="text_tries">" langkah!"</string>
+</resources>
